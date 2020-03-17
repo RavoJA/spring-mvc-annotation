@@ -1,0 +1,9 @@
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/config/WebConfig.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/config/SpringWebAppInitializer.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/controllers/Main.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/entities/Person.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/repositories/PersonRepository.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/repositories/BaseRepository.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/config/ApplicationContextConfig.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/repositories/AbstractRepo.java
+/home/ravo/Downloads/spring-mvc-maven-boilerplate/src/main/java/jean/aime/repositories/Impl/PersonRepositoryImpl.java

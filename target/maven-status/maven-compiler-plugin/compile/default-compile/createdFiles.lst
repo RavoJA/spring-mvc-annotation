@@ -1,0 +1,9 @@
+jean/aime/repositories/AbstractRepo.class
+jean/aime/repositories/PersonRepository.class
+jean/aime/config/WebConfig.class
+jean/aime/repositories/BaseRepository.class
+jean/aime/config/SpringWebAppInitializer.class
+jean/aime/repositories/Impl/PersonRepositoryImpl.class
+jean/aime/controllers/Main.class
+jean/aime/entities/Person.class
+jean/aime/config/ApplicationContextConfig.class
